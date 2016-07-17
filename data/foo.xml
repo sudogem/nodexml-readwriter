@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root userID="12345">
+    <firstname>john</firstname>
+    <lastname>doe</lastname>
+    <age>30</age>
+    <address>
+        <city>Cebu</city>
+        <country>PH</country>
+    </address>
+</root>

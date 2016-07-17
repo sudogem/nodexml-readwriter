@@ -1,0 +1,9 @@
+{
+  "name": "xml-parser-reader",
+  "version": "0.0.0",
+  "dependencies": {
+    "libxmljs": "^0.18.0",
+    "xml-writer": "^1.6.0",
+    "xml2js": "^0.4.17"
+  }
+}
